@@ -1,6 +1,6 @@
 FROM jupyter/r-notebook
 
-LABEL maintainer="Filip Krikava <krikava@gmail.com>"
+LABEL maintainer="Borja Lorente <blorente.me@gmail.com>"
 
 USER root
 
